@@ -21,7 +21,7 @@ Mwahahaha!
 
 ## Demo
 
-You can see a live demo of The Weather-inator [here](https://the-weather-inator.netlify.app/).
+You can see a live demo of The [Weather-inator](https://the-weather-inator.netlify.app/).
 
 ## Technologies Used
 
